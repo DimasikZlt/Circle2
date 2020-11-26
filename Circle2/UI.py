@@ -17,4 +17,4 @@ class Ui_Form(object):
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
         Form.setWindowTitle(_translate("Form", "Yellow circle"))
-        self.pushButton.setText(_translate("Form", "Создать желтый круг"))
+        self.pushButton.setText(_translate("Form", "Создать круг"))
