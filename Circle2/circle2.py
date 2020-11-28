@@ -4,7 +4,7 @@ import sys
 from PyQt5.QtGui import QPainter, QColor
 from PyQt5.QtWidgets import QMainWindow, QApplication
 
-from Circle2.UI import Ui_Form
+from UI import Ui_Form
 
 
 class YellowCircle(QMainWindow, Ui_Form):
